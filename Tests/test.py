@@ -3,9 +3,9 @@
 import time
 import rasterio
 import numpy as np
-import starfm4py as stp
+from src import starfm4py as stp
 import matplotlib.pyplot as plt
-from parameters import (path, sizeSlices)
+from src.parameters import (path, sizeSlices)
 
 
 
